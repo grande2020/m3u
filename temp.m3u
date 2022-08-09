@@ -46,18 +46,11 @@ http://de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Hip-Hop HD
 http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-id="491" tvg-logo="http://epg.it999.ru/img2/491.png",VH1 European
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522787773_xite.jpg",XITE HD (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522787773_xite.jpg",XITE HD (NL)
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Music",ZerounoTV
-http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
 
 
 #EXTINF:0 tvg-name="MTVUHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016–present%29.svg/285px-MTVU_Logo_%282016–present%29.svg.png" tvg-ID="",MTVUHD
