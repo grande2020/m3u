@@ -13,18 +13,26 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 group-title="Music", MTV Yo!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF: -1 group-title="Music", Vevo 2K (Geo)
+#EXTINF: -1 group-title="Music", OFive
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6154df4c6def992ec67421a3" group-title="Music", Vevo 2K (Geo)
 https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6154df4c6def992ec67421a3" group-title="Music", Vevo 2K (LocalNow)
+https://vevo2k-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539515739f0b32402b3042_vevo2k-live/live.m3u8
 #EXTINF: -1 group-title="Music", Vevo 90s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo90s/CDN/playlist.m3u8
 #EXTINF: -1 group-title="Music", Vevo Hip-Hop (Geo)
 https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
-#EXTINF: -1 group-title="Music", Vevo Pop
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8
-#EXTINF: -1 group-title="Music", Vevo pop (Geo)
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop (Geo)
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
-#EXTINF: -1 group-title="Music", Vevo R&B (Geo)
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop (LocalNow)
+https://vevopop-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa8b7989c084f121c0c08_vevopop-live/live.m3u8
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Music", Vevo R&B (Geo)
 https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Music", Vevo R&B (LocalNow)
+https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
 #EXTINF: -1 group-title="Music", Xite Hits UK
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF: -1 group-title="Music", Xite Rock on EU
