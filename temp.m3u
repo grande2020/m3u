@@ -1,0 +1,158 @@
+#EXTM3U
+#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый музыкальный
+http://rtmp.one.by:1200
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="5365" tvg-logo="http://epg.it999.ru/img2/5365.png",Первый музыкальный HD BY
+http://rtmp.one.by:1300
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный RU
+http://rtmp.one.by:2200
+
+#EXTINF:-1 group-title="Музыкальные" tvg-id="5364" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный HD RU
+http://rtmp.one.by:2300
+
+#EXTINF:-1 group-title="Music" tvg-logo="	https://smotret.tv/images/fm-italia.webp",FMITALIA TV
+https://stream4.xdevel.com/video0s975817-1185/stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://4.bp.blogspot.com/-Go4gw4tywrc/US9f8pwivcI/AAAAAAAAAWc/491S4dEftpY/s1600/kiss-tv-live.jpg",KISS 💋
+http://fms-https1.mediadirect.ro/live3/kiss.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.coolstreaming.us/img/ch/image75192318112.jpg",Metal TV
+https://v2.catcast.tv/content/33816/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/1021.png",MTV Yo!
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/1021.png",MTV Yo! 2
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img2/4655.png",Music Top HD
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.mediar.cz/wp-content/thumbnails/53983-w600-h.jpg",Ocko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827-300x225.jpg",Ocko Star
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z131121933942.jpg",Radio 51 TV
+http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/736x/e2/e9/f3/e2e9f37d5014d6835213779b2c1be5e0.jpg",Rock TV
+https://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://televisor.top/uploads/posts/635636346346346.png",Spirit TV
+https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="5483" tvg-logo="http://epg.it999.ru/img2/5483.png",V2BEAT HD
+http://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Hip-Hop HD
+http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-id="491" tvg-logo="http://epg.it999.ru/img2/491.png",VH1 European
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522787773_xite.jpg",XITE HD (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Music" tvg-logo="https://lime-tv.ru/wp-content/uploads/2020/10/1522787773_xite.jpg",XITE HD (NL)
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Music",ZerounoTV
+http://5db313b643fd8.streamlock.net:1935/ZerounoTV/ZerounoTV/playlist.m3u8
+
+
+#EXTINF:0 tvg-name="MTVUHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/MTVU_Logo_%282016–present%29.svg/285px-MTVU_Logo_%282016–present%29.svg.png" tvg-ID="",MTVUHD
+http://00322.xyz:8000/coachprato/F8P6EIHC7P/131331
+
+#EXTINF:0 tvg-name="MTVLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/045.png" tvg-ID="MTVLiveUSA.us",MTVLHD
+http://00322.xyz:8000/coachprato/F8P6EIHC7P/131330
+
+#EXTINF:0 tvg-name="MTVCLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1000px-MTV_Classic_US.svg.png" tvg-ID="MTVClassicEast.us",MTVCLAS
+http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/2318
+
+#EXTINF:0 tvg-name="BETHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/492.png" tvg-ID="63236",BETHD
+http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/2248
+
+#EXTINF:0 tvg-name="BETHHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" tvg-ID="BETHerEast.us",BETHHD
+http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/40110
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png"group-title="MUSICALES",M2O
+https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
+
+
+#EXTINF:-1 channel-id="samsung-CABB2600004RZ" tvg-id="CABB2600004RZ" tvg-chno="1504" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/CABB2600004RZ_20220525T021948.png" group-title="Music",XITE Just Chill
+https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="MÚSICAS",THE EDGE
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loop90.png" group-title="MÚSICAS", LOOP 90S WEST
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbest.png" group-title="MÚSICAS", LOOP BEAST MODE WEST
+https://884a4c762d524aad88d463477402fb7d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbedroom.png" group-title="MÚSICAS", LOOP BEDROOM WEST
+https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopelectro.png" group-title="MÚSICAS", LOOP ELECTRONICA WEST
+https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopfar.png" group-title="MÚSICAS", LOOP FAR OUT WEST
+https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopflash.png" group-title="MÚSICAS", LOOP FLASHBACK WEST
+https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophip.png" group-title="MÚSICAS", LOOP HIP-HOP WEST
+https://e4d2547e0c8c492a883054acd48276be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophottest.png" group-title="MÚSICAS", LOOP HOTTEST EAST
+https://2e9a0ef101a14c2ebe97c713bc5340be.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_v2_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophip.png" group-title="MÚSICAS",LOOP LATIN WEST
+https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopparty.png" group-title="MÚSICAS",LOOP PARTY WEST
+https://1d79349342334eb0bdeddd168b5c6e1a.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopreb.png" group-title="MÚSICAS",LOOP R&B WEST
+https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopsynapse.png" group-title="MÚSICAS",LOOP SYNAPSE WEST
+https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptexas.png" group-title="MÚSICAS",LOOP TEXAS TUNES WEST
+https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptgif.png" group-title="MÚSICAS",LOOP TGIF WEST
+https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophot.png" group-title="MÚSICAS",LOOP THAT'S HOT WEST
+https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptrending.png" group-title="MÚSICAS",LOOP TRENDING WEST
+https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopunwind.png" group-title="MÚSICAS",LOOP UNWIND WEST
+https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopyacht.png" group-title="MÚSICAS",LOOP YACHT ROCK WEST
+https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
