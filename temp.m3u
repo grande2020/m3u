@@ -31,12 +31,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img2/4655.png",Music Top HD
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.mediar.cz/wp-content/thumbnails/53983-w600-h.jpg",Ocko Expres
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://photos.live-tv-channels.org/tv-logo/cz-ocko-star-6827-300x225.jpg",Ocko Star
-http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z131121933942.jpg",Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
 
