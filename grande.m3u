@@ -1,31 +1,31 @@
-#EXTM3U
-#EXTINF:-1,Xite Hits UK
-https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Xite Rock on EU
-https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1,Vevo Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8
-#EXTINF:-1,Vevo 90s
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo90s/CDN/playlist.m3u8
-#EXTINF:-1,Classic Rock Network (temporary roku url)
+#EXTM3U 
+#EXTINF: -1 group-title="Music", Classic Rock Network (temporary roku url)
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1,MTV Block Party
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF:-1,IHeart The Beat
-https://01fe7f3f042345afb048e5a6e8868bc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_TheBeat_zc9014/playlist.m3u8
-#EXTINF:-1,MTV Biggest Pop
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF:-1,Vevo pop (Geo)
-https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
-#EXTINF:-1,MTV Yo!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF:-1,Iheart Alternative Radio
+#EXTINF: -1 group-title="Music", Iheart Alternative Radio
 https://2e46ff2398314db988ca73251518f2fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AltRadio_zc9011/playlist.m3u8
-#EXTINF:-1,Vevo R&B (Geo)
-https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
-#EXTINF:-1,Vevo Hip-Hop (Geo)
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
-#EXTINF:-1,Vevo 2K (Geo)
-https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8
-#EXTINF:-1,Iheart Classic Rock
+#EXTINF: -1 group-title="Music", Iheart Classic Rock
 https://d73b4f067ead4cbbac116b10530474df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ClassicRockChannel_zc9012/playlist.m3u8
+#EXTINF: -1 group-title="Music", IHeart The Beat
+https://01fe7f3f042345afb048e5a6e8868bc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_TheBeat_zc9014/playlist.m3u8
+#EXTINF: -1 group-title="Music", MTV Biggest Pop
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF: -1 group-title="Music", MTV Block Party
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF: -1 group-title="Music", MTV Yo!
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF: -1 group-title="Music", Vevo 2K (Geo)
+https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8
+#EXTINF: -1 group-title="Music", Vevo 90s
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo90s/CDN/playlist.m3u8
+#EXTINF: -1 group-title="Music", Vevo Hip-Hop (Geo)
+https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
+#EXTINF: -1 group-title="Music", Vevo Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8
+#EXTINF: -1 group-title="Music", Vevo pop (Geo)
+https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
+#EXTINF: -1 group-title="Music", Vevo R&B (Geo)
+https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
+#EXTINF: -1 group-title="Music", Xite Hits UK
+https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
+#EXTINF: -1 group-title="Music", Xite Rock on EU
+https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
