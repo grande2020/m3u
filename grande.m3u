@@ -1,16 +1,30 @@
 #EXTM3U 
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/6262.png" group-title="Music", BackusTV Music
+https://stream.backustv.ru/live/forilooktv/index.m3u8
+#EXTINF: -1 group-title="Music", CHD-TV-Rock
+http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 #EXTINF: -1 group-title="Music", Classic Rock Network (temporary roku url)
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://iptvxcdn.ml/hitv.png" group-title="Music", HITV
+https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 #EXTINF: -1 group-title="Music", Iheart Alternative Radio
 https://2e46ff2398314db988ca73251518f2fa.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_AltRadio_zc9011/playlist.m3u8
 #EXTINF: -1 group-title="Music", Iheart Classic Rock
 https://d73b4f067ead4cbbac116b10530474df.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_ClassicRockChannel_zc9012/playlist.m3u8
 #EXTINF: -1 group-title="Music", IHeart The Beat
 https://01fe7f3f042345afb048e5a6e8868bc4.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Roku_TheBeat_zc9014/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://i114.fastpic.ru/big/2021/0209/e3/411906b8ef8f41c95f5ead2c793a02e3.png" group-title="Music", Kronehit HD
+https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/4654.png" group-title="Music", Mix M TV HD
+http://89.179.247.144/mixm.m3u8
 #EXTINF: -1 group-title="Music", MTV Biggest Pop
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 group-title="Music", MTV Block Party
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/1021.png" group-title="Music", MTV Hits
+http://myott.top/stream/P4H2M76YRH/302.m3u8
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Music", MTV Live HD
+http://myott.top/stream/P4H2M76YRH/215.m3u8
 #EXTINF: -1 group-title="Music", MTV Yo!
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 group-title="Music", OFive
