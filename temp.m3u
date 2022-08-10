@@ -66,7 +66,7 @@ https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophot.png" group-title="MÚSICAS",LOOP THAT'S HOT WEST
 https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptrending.png" group-title="MÚSICAS",LOOP TRENDING WEST
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptrending.png" group-title="MÚSICAS",LOOP TRENDING WEST - Добавить
 https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopunwind.png" group-title="MÚSICAS",LOOP UNWIND WEST
