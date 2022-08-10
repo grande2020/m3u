@@ -33,9 +33,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsun
 #EXTINF:-1 group-title="Music",XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbest.png" group-title="MÚSICAS", LOOP BEAST MODE WEST
-https://884a4c762d524aad88d463477402fb7d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_littlstar/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbedroom.png" group-title="MÚSICAS", LOOP BEDROOM WEST
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 
