@@ -53,8 +53,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo90s/CDN/playlist.m3u8
 https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Music", VEVO Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo/CDN/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop (Geo)
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Music", Vevo Pop (LocalNow)
