@@ -81,3 +81,5 @@ https://delrqw6rbggz6.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://dri82941jql2y.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/RockMetal-prod/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/52/CABB26000054K_20220525T021950.png" group-title="Music", Xite Rock On EU
 https://xite-rockoneu-lg.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5365.png" group-title="Music", Первый музыкальный HD BY
+http://rtmp.one.by:1300
