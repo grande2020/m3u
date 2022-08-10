@@ -13,7 +13,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/736x/e2/e9/f3/e2e9f37d5014d6835213779b2c1be5e0.jpg",Rock TV
-https://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
+https://fms-https1.mediadirect.ro/live3/rocktv.smil/chunklist_w1822735216_b1600000.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Hip-Hop HD
 http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
