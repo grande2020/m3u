@@ -50,11 +50,20 @@ http://00322.xyz:8000/coachprato/F8P6EIHC7P/131330
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png"group-title="MUSICALES",M2O
 https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABB2600004RZ" tvg-id="CABB2600004RZ" tvg-chno="1504" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/CABB2600004RZ_20220525T021948.png" group-title="Music",XITE Just Chill
-https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-CABB2600004RZ" tvg-id="CABB2600004RZ" tvg-chno="1504" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/88/CABB2600004RZ_20220525T021948.png" group-title="Music",XITE Just Chill Canada
+https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-Canada-prod/playlist.m3u8
 
-#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
+#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback Canada
+https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8
+
+#EXTINF:-1,XITE NL
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w981628559_b3328000_slNLD.m3u8
+#EXTINF:-1,XITE 90s Throwback
+https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
+#EXTINF:-1,XITE Hits
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
+#EXTINF:-1,XITE Just Chill
+https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loop90.png" group-title="MÚSICAS", LOOP 90S WEST
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
