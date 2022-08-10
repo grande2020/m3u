@@ -18,9 +18,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
 #EXTINF:-1 group-title="Music" tvg-id="4655" tvg-logo="http://epg.it999.ru/img2/4655.png",Music Top HD
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.nettvpro.live/uploads/19/1-1Z131121933942.jpg",Radio 51 TV
-http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.pinimg.com/736x/e2/e9/f3/e2e9f37d5014d6835213779b2c1be5e0.jpg",Rock TV
 https://fms-https1.mediadirect.ro/live3/rocktv.smil/playlist.m3u8
 
