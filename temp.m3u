@@ -27,17 +27,11 @@ https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Music",XITE NL
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w981628559_b3328000_slNLD.m3u8
 
-#EXTINF:-1 group-title="Music",XITE 90s Throwback
-https://d3fr64zqebnqn3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/usbb3200007ak-prod/amg90rock/playlist.m3u8
-
 #EXTINF:-1 group-title="Music",XITE Hits
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01243-xitenetworksint-hitsuk-samsunguk/playlist.m3u8
 
 #EXTINF:-1 group-title="Music",XITE Just Chill
 https://d3ai750ol9my06.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/JustChill-prod/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loop90.png" group-title="MÚSICAS", LOOP 90S WEST
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbest.png" group-title="MÚSICAS", LOOP BEAST MODE WEST
 https://884a4c762d524aad88d463477402fb7d.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_littlstar/master.m3u8
@@ -47,9 +41,6 @@ https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopelectro.png" group-title="MÚSICAS", LOOP ELECTRONICA WEST
 https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_littlstar/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopfar.png" group-title="MÚSICAS", LOOP FAR OUT WEST
-https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopflash.png" group-title="MÚSICAS", LOOP FLASHBACK WEST
 https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
@@ -72,9 +63,6 @@ https://0cf4f660964046daa9e0b7b6467a4e84.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopsynapse.png" group-title="MÚSICAS",LOOP SYNAPSE WEST
 https://2807722353b745629456a555257b16bc.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptexas.png" group-title="MÚSICAS",LOOP TEXAS TUNES WEST
-https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_littlstar/master.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptgif.png" group-title="MÚSICAS",LOOP TGIF WEST
 https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
 
@@ -86,6 +74,3 @@ https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopunwind.png" group-title="MÚSICAS",LOOP UNWIND WEST
 https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopyacht.png" group-title="MÚSICAS",LOOP YACHT ROCK WEST
-https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
