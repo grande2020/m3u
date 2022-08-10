@@ -109,3 +109,24 @@ https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopyacht.png" group-title="MÚSICAS",LOOP YACHT ROCK WEST
 https://90a0d12cbaff4b959ea24bb8a3560adf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_littlstar/master.m3u8
+
+#EXTINF:-1 group-title="Музыкальные",MTV HD FR
+http://190.2.155.162:8080/mtvfrance/mpegts
+
+#EXTINF:-1 group-title="Музыкальные",MTV HITS HD FR
+http://190.2.155.162:8080/mtvhit/mpegts
+
+#EXTINF:-1 group-title="Музыкальные",M6 Music HD
+http://190.2.155.162:8080/m6music/mpegts
+
+#EXTINF:-1 group-title="Музыкальные",RMC Story
+http://37.235.38.139:4000/play/a079
+
+#EXTINF:-1 group-title="Музыкальные",TFX
+http://37.235.38.139:4000/play/a076
+
+#EXTINF:-1 group-title="Музыкальные",6TER
+http://37.235.38.139:4000/play/a075
+
+#EXTINF:-1 group-title="Музыкальные",MCM TOP
+http://194.190.78.91:8080/mcm/index.m3u8
