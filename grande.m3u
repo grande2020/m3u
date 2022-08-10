@@ -65,10 +65,10 @@ https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-45
 https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music", XITE HD (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music", XITE HD (DE) 2
+https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music", XITE HD (NL)
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
-#EXTINF: -1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20220323T075230.png" group-title="Music", XITE Hits
-https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF: -1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20220323T075230.png" group-title="Music", Xite Hits UK
 https://xite-hitsuk-lg.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/52/CABB26000054K_20220525T021950.png" group-title="Music", XITE Rock On
