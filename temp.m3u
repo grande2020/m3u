@@ -1,18 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="https://online-red.com/images/tv/one-hd.png",Первый музыкальный
-http://rtmp.one.by:1200
-
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5365" tvg-logo="http://epg.it999.ru/img2/5365.png",Первый музыкальный HD BY
 http://rtmp.one.by:1300
-
-#EXTINF:-1 group-title="Музыкальные" tvg-id="onemuz" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный RU
-http://rtmp.one.by:2200
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5364" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный HD RU
 http://rtmp.one.by:2300
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://4.bp.blogspot.com/-Go4gw4tywrc/US9f8pwivcI/AAAAAAAAAWc/491S4dEftpY/s1600/kiss-tv-live.jpg",KISS 💋
 http://fms-https1.mediadirect.ro/live3/kiss.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="MÚSICAS",THE EDGE
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/5482.png",MTV Block Party
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
@@ -50,15 +47,6 @@ http://00322.xyz:8000/coachprato/F8P6EIHC7P/131331
 #EXTINF:0 tvg-name="MTVLHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/045.png" tvg-ID="MTVLiveUSA.us",MTVLHD
 http://00322.xyz:8000/coachprato/F8P6EIHC7P/131330
 
-#EXTINF:0 tvg-name="MTVCLAS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/10/MTV_Classic_US.svg/1000px-MTV_Classic_US.svg.png" tvg-ID="MTVClassicEast.us",MTVCLAS
-http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/2318
-
-#EXTINF:0 tvg-name="BETHD" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/492.png" tvg-ID="63236",BETHD
-http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/2248
-
-#EXTINF:0 tvg-name="BETHHD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/ba/BET_Her_2021.png" tvg-ID="BETHerEast.us",BETHHD
-http://xdgo.live:8080/dalilazetino1970/bmz4VmnQHp/40110
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png"group-title="MUSICALES",M2O
 https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 
@@ -67,9 +55,6 @@ https://d3hag8ccjvbxea.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="MÚSICAS",THE EDGE
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loop90.png" group-title="MÚSICAS", LOOP 90S WEST
 https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
