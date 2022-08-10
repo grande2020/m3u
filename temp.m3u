@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="Музыкальные" tvg-id="5365" tvg-logo="http://epg.it999.ru/img2/5365.png",Первый музыкальный HD BY
-http://rtmp.one.by:1300
 
 #EXTINF:-1 group-title="Музыкальные" tvg-id="5364" tvg-logo="http://epg.it999.ru/img2/5364.png",Первый музыкальный HD RU
 http://rtmp.one.by:2300
