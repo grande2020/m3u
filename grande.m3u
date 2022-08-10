@@ -5,6 +5,8 @@ https://stream.backustv.ru/live/forilooktv/index.m3u8
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 #EXTINF: -1 group-title="Music", Classic Rock Network (temporary roku url)
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/109-1092677_deluxe-music-logo-png-deluxe-music-hd-logo.png" group-title="Music", DELUXE MUSIC HD
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF: -1 tvg-logo="https://iptvxcdn.ml/hitv.png" group-title="Music", HITV
 https://strm.yandex.ru/kal/hittv/hittv0.m3u8
 #EXTINF: -1 group-title="Music", Iheart Alternative Radio
@@ -37,8 +39,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png" group-title="Music", NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
-#EXTINF: -1 group-title="Music", OFive
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00763-ofivebroadcasti-ofive-xiaomi/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5597.png" group-title="Music", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6154df4c6def992ec67421a3" group-title="Music", Vevo 2K (Geo)
@@ -63,6 +63,10 @@ https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c
 https://na.linear.zype.com/6faae100-3b35-4797-bb10-7f804b932d16/a95ef26d-43d5-4572-accb-1d3b676d4e3e-roku-channel/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Music", Vevo R&B (LocalNow)
 https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music", XITE HD (DE)
+https://xite-samsung-de.amagi.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Music", XITE HD (NL)
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20220323T075230.png" group-title="Music", XITE Hits
 https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
 #EXTINF: -1 tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/01/DEBA2200007V6_20220323T075230.png" group-title="Music", Xite Hits UK
