@@ -33,9 +33,6 @@ https://0bdf3efc906045538c63468aa2f86a96.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopflash.png" group-title="MÚSICAS", LOOP FLASHBACK WEST
 https://ea86081fb9454be9b3b50037f9117024.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_littlstar/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophip.png" group-title="MÚSICAS", LOOP HIP-HOP WEST
-https://loop-hip-hop-2.roku.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophip.png" group-title="MÚSICAS",LOOP LATIN WEST
 https://c3b9df023def467086d10677827171f8.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_littlstar/master.m3u8
 
