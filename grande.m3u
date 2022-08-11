@@ -27,12 +27,10 @@ http://89.179.247.144/mixm.m3u8
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-block.png" group-title="Музыка", MTV Block Party
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d73fd3f00094f722f/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
-#EXTINF: -1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Музыка", MTV Hits
-http://myott.top/stream/P4H2M76YRH/302.m3u8
 #EXTINF: -1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Музыка", MTV Hits HD (France)
 http://190.2.155.162:8080/mtvhit/index.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live HD
-http://myott.top/stream/P4H2M76YRH/215.m3u8
+http://7f96799d.suklakakl.ru/iptv/PBAK7DKD9FQM7A/221/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Музыка", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF: -1 group-title="Музыка", MTV Yo!
@@ -49,11 +47,9 @@ https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4f
 https://vevo2k-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539515739f0b32402b3042_vevo2k-live/live.m3u8
 #EXTINF: -1 group-title="Музыка", Vevo 90s
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziovevo90s/CDN/playlist.m3u8
-#EXTINF: -1 group-title="Музыка", Vevo Hip-Hop (Geo)
-https://na.linear.zype.com/52d35886-a8d0-4e05-93ca-3a7d7ef9e086/8c263906-2a6b-456d-88f1-7db550edcf0d-roku-channel/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", VEVO Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Музыка", Vevo Pop (Geo)
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Музыка", Vevo Pop (NA)
 https://na.linear.zype.com/b99e99b3-4fad-ceab-7f71-27f319b5416b/f1cc3ec7-2a18-4d28-90f3-dbc1104e6cf1-hls3/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Музыка", Vevo Pop (LocalNow)
 https://vevopop-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fa8b7989c084f121c0c08_vevopop-live/live.m3u8
