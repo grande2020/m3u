@@ -37,8 +37,6 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
 https://na.linear.zype.com/26c1e462-824a-4fc9-8a80-764352bf45d4/c03ad8dd-29b0-4ff8-a005-3bee01fd3b73-roku-channel/live.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/6154df4c6def992ec67421a3" group-title="Музыка", Vevo 2K (LocalNow)
 https://vevo2k-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61539515739f0b32402b3042_vevo2k-live/live.m3u8
-#EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/colorLogoPNG.png" group-title="Музыка", Vevo 90s
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", VEVO Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Музыка", Vevo Pop (NA)
