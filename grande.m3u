@@ -25,6 +25,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150a3d7
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
 #EXTINF: -1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Музыка", MTV Hits HD (France)
 http://190.2.155.162:8080/mtvhit/index.m3u8
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV LIVE FHD TEST!
+http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108782
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live HD
 http://7f96799d.suklakakl.ru/iptv/PBAK7DKD9FQM7A/221/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Музыка", MTV Spankin' New
@@ -79,6 +81,8 @@ http://60bf27b2.cbilant.com/iptv/ETYNH2FAHHH4NV/140/index.m3u8
 http://60bf27b2.cbilant.com/iptv/ETYNH2FAHHH4NV/6001/index.m3u8
 #EXTINF: -1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/313L4DmcyrL.png" group-title="Познавательные", Drone TV (EU)
 https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="https://www.radio.net/images/broadcasts/38/81/3243/2/c300.png" group-title="Радио", BBC Radio One
+http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF: -1 group-title="Радио", Classic Rock Network (temporary roku url)
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
 #EXTINF: -1 group-title="Радио", Iheart Alternative Radio
