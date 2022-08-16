@@ -1,14 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/1021.png",MTV Yo!
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="http://epg.it999.ru/img2/1021.png",MTV Yo! 2
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS04/master.m3u8
-
-#EXTINF:-1 group-title="Music" tvg-logo="https://progsoft.net/images/vevo-icon-8910f419bc15002a657e29fd3d84fd98c1a04bc3.png",VEVO Hip-Hop HD
-http://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
-
 #EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback Canada
 https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8
 
