@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 channel-id="samsung-CABB2600018T4" tvg-id="CABB2600018T4" tvg-chno="1502" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/40/CABB2600018T4_20220525T021953.png" group-title="Music",XITE 90s Throwback Canada
-https://d1xhnb4ptk05mw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/90sThrowback-Canada-prod/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopbedroom.png" group-title="MÚSICAS", LOOP BEDROOM WEST
 https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 
@@ -29,9 +26,6 @@ https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loophot.png" group-title="MÚSICAS",LOOP THAT'S HOT WEST
 https://dccd6216f2c9471399015e69d64818cd.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_littlstar/master.m3u8
-
-#EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/looptrending.png" group-title="MÚSICAS",LOOP TRENDING WEST - Добавить
-https://3d26c463850c48c788975a9aad86c508.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_littlstar/master.m3u8
 
 #EXTINF:-1 tvg-logo="http://milionariohomeoffice.com.br/img/loopunwind.png" group-title="MÚSICAS",LOOP UNWIND WEST
 https://8c455e94c5ff44d0ada529dffef58ae5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_littlstar/master.m3u8
