@@ -29,8 +29,6 @@ http://190.2.155.162:8080/mtvhit/index.m3u8
 http://7f96799d.suklakakl.ru/iptv/PBAK7DKD9FQM7A/221/index.m3u8
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Музыка", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-#EXTINF: -1 group-title="Музыка", MTV Yo!
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e150921e2191900097c4c23/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #EXTINF: -1 tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png" group-title="Музыка", NRG 91 TV
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 #EXTINF: -1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="Музыка", THE EDGE
