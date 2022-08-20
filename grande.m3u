@@ -3,8 +3,6 @@
 https://stream.backustv.ru/live/forilooktv/index.m3u8
 #EXTINF: -1 group-title="Музыка", CHD-TV-Rock
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
-#EXTINF: -1 tvg-logo="https://www.pngfind.com/pngs/m/109-1092677_deluxe-music-logo-png-deluxe-music-hd-logo.png" group-title="Музыка", DELUXE MUSIC HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Музыка", Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQFfYQZc0nsgaA/company-logo_200_200/0/1621969050827?e=1667433600&v=beta&t=aA4cNzIF8qhJDpqAwm4-visZx52QpA6hd8BELPq1ndc" group-title="Музыка", Loop Hottest
