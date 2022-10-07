@@ -1,6 +1,4 @@
 #EXTM3U 
-#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/6262.png" group-title="Музыка", BackusTV Music
-https://stream.backustv.ru/live/forilooktv/index.m3u8
 #EXTINF: -1 group-title="Музыка", CHD-TV-Rock
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Музыка", Kronehit HD
