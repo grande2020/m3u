@@ -17,9 +17,9 @@ http://190.2.155.162:8080/mtvhit/index.m3u8
 #http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108782
 http://myott.top/stream/P4H2M76YRH/215.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live International HD
-#http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
+http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #http://iptvworld.nl:80/nlinenodric/4sR2SwYYeg/9671
-http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/9671
+#http://iptvworld.nl:2095/kQ91ka4n/daJGMKt1/9671
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Музыка", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF: -1 tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png" group-title="Музыка", NRG 91 TV
