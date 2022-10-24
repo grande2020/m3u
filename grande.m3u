@@ -25,6 +25,8 @@ http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/9671
 #EXTINF: -1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" group-title="Музыка", MTV Spankin' New
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #EXTINF: -1 tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png" group-title="Музыка", NRG 91 TV
+#https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
+#http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 #EXTINF: -1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="Музыка", THE EDGE
 https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
