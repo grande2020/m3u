@@ -62,3 +62,5 @@ https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 http://stream.live.vc.bbcmedia.co.uk/bbc_radio_one
 #EXTINF: -1 group-title="Радио", Classic Rock Network (temporary roku url)
 https://iheart-iheartclassicrock-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live International HD
+http://iptvworld.nl:2095/DITTNAMN/DITTL/9671
