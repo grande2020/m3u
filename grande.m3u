@@ -2,7 +2,8 @@
 #EXTINF: -1 group-title="Музыка", CHD-TV-Rock
 http://stream1.chd-servers.ml/chdtvrock/index.m3u8
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Музыка", Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+#https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png" group-title="Музыка", M2O
 https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-biggest.png" group-title="Музыка", MTV Biggest Pop
@@ -28,9 +29,9 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 #http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 #EXTINF: -1 tvg-logo="http://milionariohomeoffice.com.br/img/theedge.png" group-title="Музыка", THE EDGE
-https://livestreamdirect-edgetv.mediaworks.nz/edgetv.m3u8
+https://livestreamdirect-edgetv.mediaworks.nz/edgetv_1.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5597.png" group-title="Музыка", Trace Urban HD
-https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", Vevo Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/612fa9dfb47a2e1b9a0ab942" group-title="Музыка", Vevo Pop
