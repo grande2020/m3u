@@ -9,9 +9,11 @@ https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S626288
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-biggest.png" group-title="Музыка", MTV Biggest Pop
 #https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #https://stitcher.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=19f49b2e-5315-11ed-898c-0242ac110003
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.m3u8
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-block.png" group-title="Музыка", MTV Block Party HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
+#http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master.m3u8
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master_2400.m3u8
 #EXTINF: -1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Музыка", MTV Hits HD (France)
 #http://190.2.155.162:8080/mtvhit/index.m3u8
 http://etv.nikala.se:1996/45924301150697/45924301150697/108281
