@@ -37,7 +37,8 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 #EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="NRJ Hits HD FR" tvg-logo="http://cdn2.ga:2021/images/99781b6f29e81dd0960e1dafc16ca710.png" group-title="Музыка", NRJ Hits HD FR
 #http://etv.nikala.se:1996/45924301150697/45924301150697/108284
-https://s13.tntendirect.com/nrj12/live/playlist.m3u8
+#https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/master.m3u8
+https://nrj12.nrjaudio.fm/hls/live/2038374/nrj_12/FHD.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5597.png" group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", Vevo Latino HD
