@@ -16,7 +16,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master_2400.
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS06/master_2400.m3u8
 #EXTINF: -1 tvg-logo="http://s8.hostingkartinok.com/uploads/images/2021/01/3f2e98e6821b16a552efe00891f9a118.png" group-title="Музыка", MTV Hits HD (France)
 #http://190.2.155.162:8080/mtvhit/index.m3u8
-http://etv.nikala.se:1996/45924301150697/45924301150697/108281
+#http://etv.nikala.se:1996/45924301150697/45924301150697/108281
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live HD
 #http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108782
 http://myott.top/stream/DEKA6YA5JRN/215.m3u8
@@ -24,10 +24,6 @@ http://myott.top/stream/DEKA6YA5JRN/215.m3u8
 #http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/9671
 http://iptvworld.nl:2095/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9671&extension=ts&play_token=3GLGC0xAIk
-#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" tv-id="mtvgermany.de" group-title="Музыка", MTV Music (Germany)
-#https://iptvhit.com/freeiptv?31/01/2023
-#http://iptvhit.com/playlist?http://viptv.me/get.php?username=Gokhangen&password=kTGVXDKUdLk8&type=m3u
-http://viptv.me/live/Gokhangen/kTGVXDKUdLk8/10691.ts
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-spankin.png" group-title="Музыка", MTV Spankin' New
 #http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
