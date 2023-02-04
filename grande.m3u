@@ -1,4 +1,5 @@
-#EXTM3U 
+#EXTM3U
+#EXTVLCOPT--http-reconnect=true
 #EXTINF: -1 group-title="Музыка", CHD-TV-Rock
 https://stream1.servers.chd-tv.tk/chdtv-rock/index.m3u8
 #EXTINF: -1 tvg-logo="https://play-lh.googleusercontent.com/b3UZEQKoQGGXKAXY_qwijvDVDIEqfqJv-nXP1jN-f71WFVSc4aq8ciIpD0O7BWpgD1s" group-title="Музыка", Kronehit HD
