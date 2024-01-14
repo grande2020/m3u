@@ -21,7 +21,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live HD
 #http://meumd.com:80/CharleiEvangelista/qe8WCOCT/108782
 #http://myott.top/stream/DEKA6YA5JRN/215.m3u8
-http://myott.tv/stream/KD8IR5FDPF/215.m3u8
+#http://myott.tv/stream/KD8IR5FDPF/215.m3u8
+#http://ott.watch/stream/2ZYCRE4JK5/215.m3u8
+https://router.turbo-stream.net/stream/2ZYCRE4JK5/215.m3u8
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live International HD
 #http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/9671
