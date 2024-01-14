@@ -23,8 +23,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6
 #http://myott.top/stream/DEKA6YA5JRN/215.m3u8
 #http://myott.tv/stream/KD8IR5FDPF/215.m3u8
 #http://ott.watch/stream/2ZYCRE4JK5/215.m3u8
+#https://urlscan.io/domain/myott.top
 https://router.turbo-stream.net/stream/2ZYCRE4JK5/215.m3u8
-#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", MTV Live International HD
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", ➖ MTV Live International HD
 #http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/9671
 http://iptvworld.nl:2095/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9671&extension=ts&play_token=3GLGC0xAIk
@@ -35,17 +36,17 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.
 #https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #http://tv.nrg91.gr:1935/onweb/live/master.m3u8
 http://tv.nrg91.gr:1935/onweb/live/index.m3u8
-#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits HD FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLAxbCvr-fh3byB_ct8TFTcxn1iJfiveJzJ4Ee2SDnhO_vN6Sb68vYRQTJik" group-title="Музыка", NRJ Hits HD FR
+#EXTINF:-1 tvg-id="NRJHits.fr" tvg-name="NRJ Hits HD FR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGLAxbCvr-fh3byB_ct8TFTcxn1iJfiveJzJ4Ee2SDnhO_vN6Sb68vYRQTJik" group-title="Музыка", ➖ NRJ Hits HD FR
 #http://etv.nikala.se:1996/45924301150697/45924301150697/108284
 #http://www.sansat.net:25461/NPYZ3T6NCQFKLYD/KYS4Z7OPQ0HTHC1/127343
 http://ipflix.click:80/sq1x0qr86b/7777/5640
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5597.png" group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", Vevo Latino HD
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", ➖ Vevo Latino HD
 http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="Музыка", Vevo Pop Europe FHD
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="Музыка", ➖ Vevo Pop Europe FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Музыка", Vevo R&B
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Музыка", ➖ Vevo R&B
 https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Музыка", XITE HD (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
