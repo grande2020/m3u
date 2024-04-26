@@ -6,6 +6,10 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/702px-Radio_m2o_-_Logo_2019.svg.png" group-title="Музыка", M2O
 #https://streamcdng31-4c4b867c89244861ac216426883d1ad0.msvdn.net:443/live/S62628868/uhdWBlkC1AoO/chunklist_b2816000.m3u8
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist.m3u8
+#EXTINF:-1,MTV Music
+https://r.mjh.nz/PlutoTV/6245d15062cd1f00070a2338-alt.m3u8
+#EXTINF:-1,MTV: Best of
+https://r.mjh.nz/PlutoTV/65a6939b4a10d800085cee92-alt.m3u8
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-biggest.png" group-title="Музыка", MTV Biggest Pop
 #https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e1509fb7809fd000949e39b/master.m3u8?deviceId=8f35210d-be26-5e0d-8c57-d0f910026ee7&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=8f35210d-be26-5e0d-8c57-d0f910026ee7&embedPartner=rokuChannel&appName=rokuchannel
 #https://stitcher.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=19f49b2e-5315-11ed-898c-0242ac110003
@@ -24,13 +28,21 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6
 #https://urlscan.io/domain/myott.top
 #https://router.turbo-stream.net/stream/2ZYCRE4JK5/215.m3u8
 https://router.turbo-stream.net/stream/WA7KUVATXV/215.m3u8
-#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", ➖ MTV Live International HD
+#EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/382.png" group-title="Музыка", - MTV Live International HD
 #http://193.233.9.49/streams/media/MTV_Live_HD/index.m3u8
 #http://iptvworld.nl:2095/sDxJCkFF/pJxGhpDp/9671
 http://iptvworld.nl:2095/play/live.php?mac=10:27:BE:2E:A0:E5&stream=9671&extension=ts&play_token=3GLGC0xAIk
+#EXTINF:-1,MTV Love
+https://r.mjh.nz/PlutoTV/62430270d6394a0007ef24a6-alt.m3u8
+#EXTINF: -1, MTV Movie Hits
+https://r.mjh.nz/PlutoTV/62a067e7c65ff60007b40874-alt.m3u8
+#EXTINF:-1,MTV Rocks
+https://r.mjh.nz/PlutoTV/624303598e45140007d765c1-alt.m3u8
+#EXTINF:-1,MTV Party Music
+https://r.mjh.nz/PlutoTV/61ea759737679900078ff559-alt.m3u8
 #EXTINF: -1 tvg-logo="https://paultclark.com/tv/mtv-spankin.png" group-title="Музыка", MTV Spankin' New
-#http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master.m3u8
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+#http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS07/master_2400.m3u8
+https://r.mjh.nz/PlutoTV/5d14fdb8ca91eedee1633117-alt.m3u8
 #EXTINF: -1 tvg-logo="https://suzukantv.at.ua/LOGOMUSIC/0x0_Music.png" group-title="Музыка", NRG 91 TV
 #https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #http://tv.nrg91.gr:1935/onweb/live/master.m3u8
@@ -41,11 +53,16 @@ http://tv.nrg91.gr:1935/onweb/live/index.m3u8
 http://ipflix.click:80/sq1x0qr86b/7777/5640
 #EXTINF: -1 tvg-logo="http://epg.it999.ru/img2/5597.png" group-title="Музыка", Trace Urban HD
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", ➖ Vevo Latino HD
-http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="Музыка", ➖ Vevo Pop Europe FHD
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a56f3497d4257431f3c32/900" group-title="Музыка", Vevo Latino HD
+#http://5dcc6a9f1621dc5dd511ca14-s-5.ssai.zype.com/5dcc6a9f1621dc5dd511ca14-s-5/manifest.m3u8
+https://r.mjh.nz/PlutoTV/5da0d64d0e8a62000964ebe4-alt.m3u8
+#EXTINF:-1,Vevo Pop GB
+https://i.mjh.nz/SamsungTVPlus/GBBC19000017V.m3u8
+#EXTINF:-1,Vevo Pop US
+https://i.mjh.nz/SamsungTVPlus/USBC3600008WY.m3u8
+#EXTINF: -1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFL_sKGqoeHmfJ-qO8tvjGR4ARI4xUnQuFl8CfzO0_cHL0Vrpn80ojMIgoAn2hr6CeoYo&usqp=CAU" group-title="Музыка", - Vevo Pop Europe FHD
 https://5f3491c50b093e00015a3c4c-samsung.eu.ssai.zype.com/5f3491c50b093e00015a3c4c_samsung_eu/manifest.m3u8
-#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Музыка", ➖ Vevo R&B
+#EXTINF: -1 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/613a571d4e16466878783ac9" group-title="Музыка", - Vevo R&B
 https://vevorb-live.localnowlive.com/v1/master/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_612fad407242a0381174ef62_vevorb-live/live.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Logo_XITE_2017_zwart.png" group-title="Музыка", XITE HD (DE)
 https://xite-samsung-de.amagi.tv/playlist.m3u8
